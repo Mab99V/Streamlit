@@ -5,7 +5,7 @@ import numpy as np
 
 
 st.title('Netflix app')
-
+st.sidebar.write("Mabel Perez Garibay - S18003216")
 #--- LOGO ---#
 st.sidebar.image("credencial.jpeg")
 st.sidebar.markdown("##")
